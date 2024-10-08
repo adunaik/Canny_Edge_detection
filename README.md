@@ -29,4 +29,12 @@ The motivation behind using Canny edge detection stems from the need to accurate
 
 Canny edge detection aims to develop a reliable and efficient tool for extracting meaningful edge information from images, facilitating various computer vision applications.
 
+# ALGORITHM :
+ The Canny edge detection algorithm is composed of 5 steps:
+
+1.Noise reduction
+2.Gradient calculation
+3.Non-maximum suppression
+4.Double threshold
+5.Edge Tracking by Hysteresis
 

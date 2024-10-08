@@ -21,4 +21,12 @@ Scope: Discuss the importance of edge detection, the problems it addresses, and 
 *Robotics (e.g., obstacle detection).
 *Computer vision (e.g., facial recognition, motion tracking).
 
+# What is Canny Edge Detection?
+
+Canny edge detection is an image processing technique used to detect edges in images while minimizing noise and preserving important edges. 
+
+The motivation behind using Canny edge detection stems from the need to accurately extract edges from images for various computer vision tasks such as object detection, image segmentation, and feature extraction.
+
+Canny edge detection aims to develop a reliable and efficient tool for extracting meaningful edge information from images, facilitating various computer vision applications.
+
 

@@ -41,6 +41,6 @@ Canny edge detection aims to develop a reliable and efficient tool for extractin
 # Results
 
 ![image](https://github.com/user-attachments/assets/0ab30ff8-c956-4300-b9ac-46084ef48bfe)  ![image](https://github.com/user-attachments/assets/efe1ff84-f1f5-4286-a576-34834ee7f6c4)
-) 
+
 
 
